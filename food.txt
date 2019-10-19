@@ -4,3 +4,5 @@ kheer
 sweet
 good better best
 thanks
+bye
+by
